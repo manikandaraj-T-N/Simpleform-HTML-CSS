@@ -50,7 +50,7 @@ This project was inspired by the FreeCodeCamp Responsive Web Design Certificatio
 
 ## Contact
 
-If you have any questions, suggestions, or would like to report a bug, please feel free to contact Manikandaraj via [manikandarajnataraj@gmail.com].   (or)
+If you have any questions, suggestions, or would like to report a bug, please feel free to contact me via [manikandarajnataraj@gmail.com].   (or)
 
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
