@@ -4,15 +4,15 @@
 This is a simple survey form that allows users to provide their name, email, age, gender, and feedback. It was created using HTML and CSS.
 
 ## Table of Contents
-- [Introduction]()
-- [Usage]()
-- [Customization]()
-- [Installation]()
-- [Technologies Used]()
-- [Contributing]()
-- [Issues]()
-- [License]()
-- [Acknowledgements]()
+- [Introduction](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#introduction)
+- [Usage](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#usage)
+- [Customization](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#customization)
+- [Installation](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#installation)
+- [Technologies Used](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#technologies-used)
+- [Contributing](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#contributing)
+- [Issues](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#issues)
+- [License](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#license)
+- [Acknowledgements](https://github.com/manikandaraj-T-N/SurveyForm-HTML-CSS/blob/main/README.md#acknowledgements)
 
 ### Introduction
 The Survey Form is a basic HTML and CSS project that allows users to fill out a form with their personal details and feedback. The project was created as part of a web development course and can be used as a starting point for more complex form-based projects.
